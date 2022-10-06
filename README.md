@@ -9,7 +9,7 @@ This repository contains important lessons to take from typescript tutorial. Thi
 Download the zip folder by clicking on the button provided above or simply clone the repository from the command below
 
 ```bash
-git clone
+git clone git@github.com:angkushsahu/typescript-tutorial.git
 ```
 
 Then simply download all the dependencies by executing the command below
